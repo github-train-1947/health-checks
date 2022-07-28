@@ -42,7 +42,7 @@ def main():
             part.fstype,
             part.mountpoint))
         print('Congrats ! You now have your details!')
-	print('Congrats ! I have added another line!')
+	print('Trying to skip the staging and see')
 
 
 if __name__ == '__main__':
